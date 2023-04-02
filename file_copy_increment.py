@@ -5,7 +5,7 @@ import os
 import shutil
 
 dir_path ='/Users/johndoe/Git/LexDAO/LexDAO_Membership_Token' 
-n_times = 3
+n_times = 5
 
 def do_copy(dir_path, n_times):
     assert os.path.exists(dir_path)
@@ -17,7 +17,7 @@ def do_copy(dir_path, n_times):
         print("This is the original file name: ", name)
         start_ind = int(name)
         for n in range(1, n_times+1):
-            new_file = os.path.join(os.getcwd(), f"{start_ind+n}{ext}")
+            new_file = os.path.join(os.getcwd(), f"{start_ind+n}{ext}") #may want to remove the extension bc of how things get minted
             shutil.copy(os.path.join(os.getcwd(), file), new_file)
 
 do_copy(dir_path, n_times) 
