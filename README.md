@@ -16,3 +16,4 @@ variety of code concepts around meta data files.  Some possible places to dig ar
   - [JS Code translated by ChatGPT from Python original](https://chat.openai.com/chat)
   - [Creating Files in Python](https://www.geeksforgeeks.org/how-to-create-filename-containing-date-or-time-in-python/)
   - [OpenSea Metadata Standards](https://docs.opensea.io/docs/metadata-standards)
+  - [Opening File and Replacing Text in Python](https://www.youtube.com/watch?v=0eCMCk9Bstw)
