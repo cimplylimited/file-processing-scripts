@@ -5,6 +5,7 @@ import os
 import shutil
 
 dir_path ='/Users/johndoe/Git/LexDAO/LexDAO_Membership_Token/Image_Files' 
+dir_path ='/Users/johndoe/Git/LexDAO/LexDAO_Membership_Token/Image_File' 
 n_times = 5
 
 
