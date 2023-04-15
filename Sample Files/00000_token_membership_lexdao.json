@@ -1,0 +1,29 @@
+{
+    "name": "LexDAO",
+    "TokenID": 0,
+    "external_url": "https://www.lexdao.coop/"
+    "image": "https://gateway.pinata.cloud/ipfs/QmTuQGQtJQY7JPwm2Vvi79g7nEV25bHbKa8n5otH16KACK/2023-tokens-prefinal-lexdao-2023.png"
+    "description": "2023 Membership Token"
+    "attributes": [
+        {   
+            "trait_type": "artist"
+            "value": "https://tenfinney.com/"
+
+            "trait_type": "Constitution"
+            "value": "https://github.com/lexDAO/LexDAO-Constitution/blob/master/LexDAO-Constitution%20v02.md"
+
+            "trait_type": "voting_power"
+            "value": 1
+
+            "display_type": "date"
+            "trait_type": "created"
+            "value": 1677628800
+        }
+
+
+
+    ]
+
+
+
+}
