@@ -8,8 +8,8 @@ but, it will likely come in handy for a variety of other tasks in the future.
 --------------
   - [x] Create a script for copying the files and incrementing the number (ie. file name: 0.json is copied and creates 1.json)
   - [x] Create a script for opening a file and incrementing the token ID number (ie. token number: 0 is now token number: 1)
-  - [ ] Nest the scripts inside one another so that as the new incremental file is created, the token is incremented
-  - [ ] Create a script that copies image files in binary and increments the file number (as above)
+  - [x] Nest the scripts inside one another so that as the new incremental file is created, the token is incremented
+  - [x] Create a script that copies image files in binary and increments the file number (as above)
 
 
 # References
