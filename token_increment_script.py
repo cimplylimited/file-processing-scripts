@@ -3,7 +3,7 @@ import os
 import shutil
 
 dir_path ='/Users/johndoe/Git/LexDAO/LexDAO_Membership_Token/Token_Files' 
-n_times = 200
+n_times = 10
 file_name = '0.json' #currently not used, but further enhancement will allow for this to be included as the start parameter
 
 new_files_list = [] #place for the output of all the duplicated files to feed the new tokenID functions
@@ -35,6 +35,8 @@ def file_increment(dir_path, n_times):
 
                     with open (i, 'w', encoding='utf-8') as file:
                         file.writelines(data)
+
+                        
 
         new_token_ID(file_increment, new_files_list)
         
